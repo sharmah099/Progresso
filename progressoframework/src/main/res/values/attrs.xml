@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="textXXLarge" format="reference" />
+    <attr name="textXLarge" format="reference" />
+    <attr name="textLarge" format="reference" />
+    <attr name="colorProgressDialog" format="reference" />
+</resources>

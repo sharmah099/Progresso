@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">progressoFramework</string>
+    <string name="invalid_activity">Unable to locate the activity: </string>
+</resources>
